@@ -1,7 +1,7 @@
 
 ## Description
 
-Waste management System for effective Environment management.
+Waste Management System for effective Environment management.
 
 
 ## Installation
